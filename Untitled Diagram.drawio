@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-06T15:05:41.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="M0hVodUCICYWuP38Yf_t" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T15:27:24.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Y1ZwIQnHzTdrm7mJPvJX" version="21.6.1" type="github">
   <diagram name="Page-1" id="jLKKZluM8srTzTSJDMef">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,30 +6,61 @@
         <mxCell id="1" parent="0" />
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uau8ywvGDSGfsXAt1Brf-1" target="Uau8ywvGDSGfsXAt1Brf-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="300" as="targetPoint" />
+            <mxPoint x="139" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-1" value="Updating Belief distribution for each arm (Bayes rule)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uau8ywvGDSGfsXAt1Brf-3">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uau8ywvGDSGfsXAt1Brf-3" target="Uau8ywvGDSGfsXAt1Brf-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="360" as="targetPoint" />
+            <mxPoint x="139" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-3" value="Calculating Thompson Sampling Policy (Eq. 3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Uau8ywvGDSGfsXAt1Brf-5">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uau8ywvGDSGfsXAt1Brf-5" target="Uau8ywvGDSGfsXAt1Brf-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="261" y="460" as="targetPoint" />
+            <mxPoint x="140" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-5" value="Calculate optimal policy \pi_{*} for each agent (Eq. 8)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="201" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uau8ywvGDSGfsXAt1Brf-7" target="Uau8ywvGDSGfsXAt1Brf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-7" value="Calculate free energy of optimal policy of each agent (Eq. 7)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Uau8ywvGDSGfsXAt1Brf-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="480" />
+              <mxPoint x="81" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="510" as="targetPoint" />
+            <mxPoint x="150" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="150" y="480" />
+              <mxPoint x="211" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-9" value="Select agent with minimum free energy(Eq. 9)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
