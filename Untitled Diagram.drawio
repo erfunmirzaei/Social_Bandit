@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-07-07T09:00:21.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GlZy7_ICg3iEPJYbCSPI" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-07T09:03:54.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hT39QvES3MvfysgHFA4d" version="21.6.1" type="github">
   <diagram name="Page-1" id="jLKKZluM8srTzTSJDMef">
     <mxGraphModel dx="1290" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-23" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry y="40" width="440" height="640" as="geometry">
+          <mxGeometry x="10" y="50" width="430" height="630" as="geometry">
             <mxRectangle y="40" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
-          <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-19" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -93,12 +93,13 @@
             <mxPoint x="320" y="240" as="targetPoint" />
             <mxPoint x="400" y="100" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="402" y="250" />
+              <mxPoint x="390" y="91" />
+              <mxPoint x="390" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-20" value="Updating&amp;nbsp; estimated behavioral policy&lt;br&gt;(Eq. 5, 6)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
-          <mxGeometry x="290" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-34" value="Social Agent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="250" y="590" width="140" height="40" as="geometry" />
@@ -137,7 +138,7 @@
           <mxGeometry x="180" y="480" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="fMXsqICDEtxerlvjd7WZ-17" value="$$F\left(i, \pi_{{ag}_i}^*\right)$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uau8ywvGDSGfsXAt1Brf-23">
-          <mxGeometry x="190" y="380" width="50" height="20" as="geometry" />
+          <mxGeometry x="190" y="390" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="fMXsqICDEtxerlvjd7WZ-18" value="$$\pi_{{ag}_i}^*$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uau8ywvGDSGfsXAt1Brf-23">
           <mxGeometry x="180" y="280" width="40" height="20" as="geometry" />
@@ -145,8 +146,11 @@
         <mxCell id="fMXsqICDEtxerlvjd7WZ-19" value="$$\pi_{TS}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uau8ywvGDSGfsXAt1Brf-23">
           <mxGeometry x="180" y="190" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Uau8ywvGDSGfsXAt1Brf-36" target="Uau8ywvGDSGfsXAt1Brf-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Uau8ywvGDSGfsXAt1Brf-36" target="Uau8ywvGDSGfsXAt1Brf-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="190" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-36" value="Agent N-1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
@@ -191,7 +195,7 @@
           <mxGeometry x="780" y="30" width="60" height="650" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-50" value="Environment" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="Uau8ywvGDSGfsXAt1Brf-39" vertex="1">
-          <mxGeometry x="10" y="270" width="60" height="30" as="geometry" />
+          <mxGeometry y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.055;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Uau8ywvGDSGfsXAt1Brf-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
