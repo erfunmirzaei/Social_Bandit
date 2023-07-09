@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-09T07:47:09.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E4MJ_6a6LAL-KJG6Y4HW" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-09T07:47:27.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-VsmgeHXGEEp2ma-VEN0" version="21.6.1" type="github" pages="2">
   <diagram name="Page-1" id="jLKKZluM8srTzTSJDMef">
     <mxGraphModel dx="1290" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -340,12 +340,6 @@
               <mxPoint x="390" y="91" />
               <mxPoint x="390" y="250" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="q3TjnMsAufIP-4ecjb4N-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="341" y="90" as="sourcePoint" />
-            <mxPoint x="311" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ndtwWIUN0t6fgnPoVDJu-19" value="بروز رسانی سیاست رفتاری تخمین زده شده&lt;br&gt;{3.5، 3.6 معادلات&amp;nbsp;}" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
