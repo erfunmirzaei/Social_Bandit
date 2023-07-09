@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-08T08:10:08.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OD9lYrtdInj20z0BQPlt" version="21.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-09T07:47:09.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="E4MJ_6a6LAL-KJG6Y4HW" version="21.6.1" type="github" pages="2">
   <diagram name="Page-1" id="jLKKZluM8srTzTSJDMef">
     <mxGraphModel dx="1290" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -244,44 +244,44 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8tD_rVsal_eQz5luLfDJ" name="Page-2">
-    <mxGraphModel dx="1290" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="50" width="430" height="630" as="geometry">
             <mxRectangle y="40" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-2" value="بروزرسانی توزیع‌های باور&amp;nbsp;&lt;br&gt;{قانون بیز}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-2" value="بروزرسانی توزیع‌های باور&amp;nbsp;&lt;br&gt;{قانون بیز}" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="110" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-3" value="محاسبه‌ی سیاست الگوریتم نمونه برداری تامپسون&lt;br&gt;{3.3 معادله }" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-3" value="محاسبه‌ی سیاست الگوریتم نمونه برداری تامپسون&lt;br&gt;{3.3 معادله }" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="110" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-2" target="ndtwWIUN0t6fgnPoVDJu-3">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-2" target="ndtwWIUN0t6fgnPoVDJu-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-5" value="Calculate optimal policy \(\pi_{ag_i}^{*}\) for each agent (Eq. 8)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-5" value="محاسبه سیاست بهینه&amp;nbsp;&lt;br&gt;برای هر عامل&lt;br&gt;{3.8 معادله }" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" target="ndtwWIUN0t6fgnPoVDJu-5">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" target="ndtwWIUN0t6fgnPoVDJu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="169" y="210" as="targetPoint" />
             <mxPoint x="170" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-7" value="Calculate free energy of optimal policy of each agent (Eq. 7)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-7" value="محاسبه‌ی انرژی آزاد برای سیاست‌های بهینه عامل‌ها&amp;nbsp;&lt;br&gt;{3.7 معادله }" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-5" target="ndtwWIUN0t6fgnPoVDJu-7">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-5" target="ndtwWIUN0t6fgnPoVDJu-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.437;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-11">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.437;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="530" as="targetPoint" />
             <mxPoint x="160" y="480" as="sourcePoint" />
@@ -292,7 +292,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-11">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="530" as="targetPoint" />
             <mxPoint x="180" y="480" as="sourcePoint" />
@@ -303,19 +303,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-11" value="Select agent with minimum free energy(Eq. 9)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-11" value="انتخاب عامل دارای کمینه انرژی آزاد&lt;br&gt;{3.9 معادله }" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-7" target="ndtwWIUN0t6fgnPoVDJu-11">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-7" target="ndtwWIUN0t6fgnPoVDJu-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-13" value="Select action from \(\pi_{TS}\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-13" value="انتخاب عمل بر اساس&lt;br&gt;&amp;nbsp;\(\pi_{TS}\)" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Select action from\(\pi_{ag_i}^{*}\)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;انتخاب عمل بر اساس&lt;br&gt;\(\pi_{ag_i}^{*}\)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="170" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" target="ndtwWIUN0t6fgnPoVDJu-5">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" target="ndtwWIUN0t6fgnPoVDJu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="180" as="sourcePoint" />
             <Array as="points">
@@ -323,16 +323,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="250" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="310" y="150" as="sourcePoint" />
             <mxPoint x="350" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-19" target="ndtwWIUN0t6fgnPoVDJu-5">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.93;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" source="ndtwWIUN0t6fgnPoVDJu-19" target="ndtwWIUN0t6fgnPoVDJu-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="240" as="targetPoint" />
             <mxPoint x="400" y="100" as="sourcePoint" />
@@ -342,22 +342,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q3TjnMsAufIP-4ecjb4N-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="q3TjnMsAufIP-4ecjb4N-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="341" y="90" as="sourcePoint" />
             <mxPoint x="311" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-19" value="بروز رسانی سیاست رفتاری تخمین زده شده&lt;br&gt;{3.5، 3.6 معادلات&amp;nbsp;}" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-19" value="بروز رسانی سیاست رفتاری تخمین زده شده&lt;br&gt;{3.5، 3.6 معادلات&amp;nbsp;}" style="rounded=0;whiteSpace=wrap;html=1;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-20" value="عامل اجتماعی(N عامل)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-20" value="عامل اجتماعی(N عامل)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="250" y="590" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-21" value="$$\hat{\pi}_{{ag}_i}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-21" value="$$\hat{\pi}_{{ag}_i}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="290" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ndtwWIUN0t6fgnPoVDJu-1" target="ndtwWIUN0t6fgnPoVDJu-37">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" target="ndtwWIUN0t6fgnPoVDJu-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="819" y="640" as="targetPoint" />
             <mxPoint x="179" y="580" as="sourcePoint" />
@@ -370,46 +370,46 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-23" value="$$i = self$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-23" value="$$i = self$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="100" y="480" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-24" value="$$i \neq self$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-24" value="$$i \neq self$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="180" y="480" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-25" value="$$F\left(i, \pi_{{ag}_i}^*\right)$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-25" value="$$F\left(i, \pi_{{ag}_i}^*\right)$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="190" y="390" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-26" value="$$\pi_{{ag}_i}^*$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-26" value="$$\pi_{{ag}_i}^*$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="180" y="280" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-27" value="$$\pi_{TS}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-27" value="$$\pi_{TS}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="180" y="190" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-28" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://static.thenounproject.com/png/2475107-200.png" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-28" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://static.thenounproject.com/png/2475107-200.png" parent="ndtwWIUN0t6fgnPoVDJu-1" vertex="1">
           <mxGeometry x="180" y="90" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ndtwWIUN0t6fgnPoVDJu-30" target="ndtwWIUN0t6fgnPoVDJu-16">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ndtwWIUN0t6fgnPoVDJu-30" target="ndtwWIUN0t6fgnPoVDJu-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="190" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-30" value="N - 1 عامل" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-30" value="N - 1 عامل" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="ndtwWIUN0t6fgnPoVDJu-30" target="ndtwWIUN0t6fgnPoVDJu-34">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" source="ndtwWIUN0t6fgnPoVDJu-30" target="ndtwWIUN0t6fgnPoVDJu-34" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="190" as="sourcePoint" />
             <mxPoint x="590" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="100" as="sourcePoint" />
             <mxPoint x="410" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ndtwWIUN0t6fgnPoVDJu-37">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ndtwWIUN0t6fgnPoVDJu-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="140" as="targetPoint" />
             <Array as="points">
@@ -418,13 +418,13 @@
             <mxPoint x="480" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-34" value="عامل 1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-34" value="عامل 1&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ndtwWIUN0t6fgnPoVDJu-37" target="ndtwWIUN0t6fgnPoVDJu-2">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ndtwWIUN0t6fgnPoVDJu-37" target="ndtwWIUN0t6fgnPoVDJu-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.022;exitY=0.274;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.022;exitY=0.274;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="781.98" y="190.83999999999992" as="sourcePoint" />
             <mxPoint x="640" y="190" as="targetPoint" />
@@ -433,13 +433,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-37" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-37" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="50" width="60" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-38" value="محیط&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="ndtwWIUN0t6fgnPoVDJu-37">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-38" value="محیط&lt;br&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" parent="ndtwWIUN0t6fgnPoVDJu-37" vertex="1">
           <mxGeometry y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.055;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ndtwWIUN0t6fgnPoVDJu-30">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.055;entryY=0.374;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ndtwWIUN0t6fgnPoVDJu-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="524.4" y="170" as="sourcePoint" />
             <mxPoint x="779.9999999999999" y="239.36000000000013" as="targetPoint" />
@@ -451,19 +451,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-40" value="$$a_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-40" value="$$a_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-41" value="$$a_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-41" value="$$a_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-42" value="$$a_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-42" value="$$a_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-43" value="$$R_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-43" value="$$R_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="-10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="100" as="sourcePoint" />
             <mxPoint x="680" y="100.01999999999998" as="targetPoint" />
@@ -472,13 +472,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-45" value="$$R_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-45" value="$$R_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="70" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-46" value="$$R_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-46" value="$$R_t$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="165" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ndtwWIUN0t6fgnPoVDJu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="ndtwWIUN0t6fgnPoVDJu-37">
+        <mxCell id="ndtwWIUN0t6fgnPoVDJu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ndtwWIUN0t6fgnPoVDJu-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="820" y="660" as="targetPoint" />
             <mxPoint x="90" y="630" as="sourcePoint" />
