@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T13:55:18.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Le1dgLDPfHKHCbFVtkdy" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-12T15:36:01.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zy_lYta7DS78lEfRScTN" version="21.6.8" type="github" pages="3">
   <diagram name="Page-1" id="jLKKZluM8srTzTSJDMef">
     <mxGraphModel dx="1290" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -20,7 +20,7 @@
             <mxPoint x="170" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-5" value="Calculate optimal policy \(\pi_{ag_i}^{*}\) for each agent (Eq. 8)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-5" value="Calculate optimal policy \(\tilde{\pi}_{{ag}_i}\) for each agent (Eq. 7)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="110" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" target="Uau8ywvGDSGfsXAt1Brf-5" edge="1">
@@ -29,7 +29,7 @@
             <mxPoint x="170" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-7" value="Calculate free energy of optimal policy of each agent (Eq. 7)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-7" value="Calculate free energy of optimal policy of each agent (Eq. 5)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="110" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" source="Uau8ywvGDSGfsXAt1Brf-5" target="Uau8ywvGDSGfsXAt1Brf-7" edge="1">
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-9" value="Select agent with minimum free energy(Eq. 9)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-9" value="Select agent with minimum free energy(Eq. 8)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="110" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" source="Uau8ywvGDSGfsXAt1Brf-7" target="Uau8ywvGDSGfsXAt1Brf-9" edge="1">
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-20" value="Updating&amp;nbsp; estimated behavioral policy&lt;br&gt;(Eq. 5, 6)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-20" value="Updating&amp;nbsp; estimated behavioral policy&lt;br&gt;(Eq. 9, 10)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="280" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-34" value="Social Agent (Agent N)" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
