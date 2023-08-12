@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T13:54:35.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kQOV7LUCypixmuXIbljy" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-12T13:55:18.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="Le1dgLDPfHKHCbFVtkdy" version="21.6.8" type="github" pages="3">
   <diagram name="Page-1" id="jLKKZluM8srTzTSJDMef">
     <mxGraphModel dx="1290" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fMXsqICDEtxerlvjd7WZ-13" value="$$i^* = N$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
-          <mxGeometry x="70" y="480" width="60" height="10" as="geometry" />
+          <mxGeometry x="100" y="480" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="fMXsqICDEtxerlvjd7WZ-16" value="$$i^* \neq N$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="180" y="480" width="60" height="10" as="geometry" />
