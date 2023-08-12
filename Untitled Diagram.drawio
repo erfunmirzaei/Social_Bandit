@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T13:31:31.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="IJnxGwpWzMBHX5y8oyQC" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-12T13:47:40.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="38l6QSBkuQkBTcpAEyv2" version="21.6.8" type="github" pages="3">
   <diagram name="Page-1" id="jLKKZluM8srTzTSJDMef">
     <mxGraphModel dx="1290" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-13" value="Select action from \(\pi_{TS}\)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Select action from\(\pi_{ag_i}^{*}\)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Select action from\(\tilde{\pi}_{{ag}_{i^*}}\)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="170" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" target="Uau8ywvGDSGfsXAt1Brf-5" edge="1">
@@ -119,16 +119,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fMXsqICDEtxerlvjd7WZ-13" value="$$i^* = self$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="fMXsqICDEtxerlvjd7WZ-13" value="$$i^* = N$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="100" y="480" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fMXsqICDEtxerlvjd7WZ-16" value="$$i^* \neq self$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="fMXsqICDEtxerlvjd7WZ-16" value="$$i^* \neq N$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="180" y="480" width="60" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fMXsqICDEtxerlvjd7WZ-17" value="$$F\left(i, \pi_{{ag}_i}^*\right)$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="fMXsqICDEtxerlvjd7WZ-17" value="$$F\left(i, \tilde{\pi}_{{ag}_i}\right)$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="180" y="380" width="50" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="fMXsqICDEtxerlvjd7WZ-18" value="$$\pi_{{ag}_i}^*$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="fMXsqICDEtxerlvjd7WZ-18" value="$$\tilde{\pi}_{{ag}_i}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="180" y="280" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fMXsqICDEtxerlvjd7WZ-19" value="$$\pi_{TS}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
@@ -137,7 +137,7 @@
         <mxCell id="fMXsqICDEtxerlvjd7WZ-26" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;image=https://static.thenounproject.com/png/2475107-200.png" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="180" y="90" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sl0QnmHDzVYZaA7vwjuD-1" value="$$\hat\pi_{self}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
+        <mxCell id="sl0QnmHDzVYZaA7vwjuD-1" value="$$\hat\pi_{ag_N}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="110" y="190" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="66hetL-OM86COoO7zvc4-2" value="i = 1,2,...,N-1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
@@ -149,7 +149,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-36" value="Agent N-1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#D5E8D4;" parent="1" vertex="1">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-36" value="Agent N-1&lt;br&gt;(Individual Agent)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-37" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" source="Uau8ywvGDSGfsXAt1Brf-36" target="Uau8ywvGDSGfsXAt1Brf-38" edge="1">
@@ -173,7 +173,7 @@
             <mxPoint x="480" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-38" value="Agent 1" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#D5E8D4;" parent="1" vertex="1">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-38" value="Agent 1&lt;br&gt;(Individual Agent)" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="560" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Uau8ywvGDSGfsXAt1Brf-39" target="Uau8ywvGDSGfsXAt1Brf-1" edge="1">
