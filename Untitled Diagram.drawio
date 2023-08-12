@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-12T13:48:46.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="PgchCQgrs-VhisljLCWt" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-12T13:54:35.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kQOV7LUCypixmuXIbljy" version="21.6.8" type="github" pages="3">
   <diagram name="Page-1" id="jLKKZluM8srTzTSJDMef">
     <mxGraphModel dx="1290" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -42,9 +42,10 @@
             <mxPoint x="70" y="529.4" as="targetPoint" />
             <mxPoint x="132.44000000000005" y="469.9999999999999" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="140" y="470.4" />
-              <mxPoint x="140" y="499.4" />
-              <mxPoint x="70" y="499.4" />
+              <mxPoint x="170" y="470" />
+              <mxPoint x="170" y="500" />
+              <mxPoint x="90" y="500" />
+              <mxPoint x="90" y="529" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -65,7 +66,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-13" value="Select action from \(\pi_{TS}\)" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
-          <mxGeometry x="20" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-14" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Select action from\(\tilde{\pi}_{{ag}_{i^*}}\)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="Uau8ywvGDSGfsXAt1Brf-23" vertex="1">
           <mxGeometry x="170" y="520" width="120" height="60" as="geometry" />
@@ -113,8 +114,8 @@
             <Array as="points">
               <mxPoint x="240" y="580" />
               <mxPoint x="240" y="600" />
-              <mxPoint x="150" y="600" />
-              <mxPoint x="150" y="680" />
+              <mxPoint x="170" y="600" />
+              <mxPoint x="170" y="680" />
               <mxPoint x="790" y="680" />
             </Array>
           </mxGeometry>
@@ -233,14 +234,14 @@
         <mxCell id="Uau8ywvGDSGfsXAt1Brf-108" value="$$R_{t,N-1}$$" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="165" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uau8ywvGDSGfsXAt1Brf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="Uau8ywvGDSGfsXAt1Brf-39" edge="1">
+        <mxCell id="Uau8ywvGDSGfsXAt1Brf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="Uau8ywvGDSGfsXAt1Brf-39" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="660" as="targetPoint" />
-            <mxPoint x="90" y="630" as="sourcePoint" />
+            <mxPoint x="810" y="690" as="targetPoint" />
+            <mxPoint x="110" y="630" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="90" y="650" />
-              <mxPoint x="170" y="650" />
-              <mxPoint x="170" y="730" />
+              <mxPoint x="110" y="650" />
+              <mxPoint x="190" y="650" />
+              <mxPoint x="190" y="730" />
               <mxPoint x="810" y="730" />
             </Array>
           </mxGeometry>
